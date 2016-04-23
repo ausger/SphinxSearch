@@ -1,0 +1,3 @@
+app/code/community/Manticorp/SphinxSearch/*                             app/code/community/Manticorp/SphinxSearch
+app/etc/modules/Manticorp_SphinxSearch.xml                              app/etc/modules/Manticorp_SphinxSearch.xml
+lib/sphinxapi.php                                                       lib/sphinxapi.php
