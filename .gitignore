@@ -8,7 +8,6 @@ local.xml
 /magmi
 .htaccess
 /tmp
-composer.json
 *.sublime*
 *.sublime-project
 .htaccess-sample
